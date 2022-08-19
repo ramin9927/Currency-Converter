@@ -35,7 +35,7 @@ public class MainWindow extends JFrame {
         setLocationRelativeTo(null);
         setResizable(false);
 
-        // Create menu bar
+        // Create menu bar created
         JMenuBar menuBar = new JMenuBar();
         setJMenuBar(menuBar);
 
